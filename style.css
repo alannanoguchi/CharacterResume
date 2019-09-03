@@ -1,7 +1,24 @@
 body {
     color: #fffff;
-    background-image: url('PrideRock.png');
+    background-image: url('https://media3.giphy.com/media/Lxjlm2AUTKO0U/giphy.gif?cid=790b76119415f50ae1204febab755bce7a0704eaed9964dd&rid=giphy.gif');
     background-size: cover;
     background-repeat: no-repeat;
-    font-family:
+    font-family: Chilanka
+
+}
+
+section {
+    background-color: rgba(195, 100, 100, 0.65);
+    width: 55%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+.simba{
+    z-index: -1;
+
 }
